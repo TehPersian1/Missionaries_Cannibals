@@ -8,7 +8,7 @@ Shervin Afrasiabi, Isaac Estrada, Kevin Dillon
 
 Ensure that python 3.0 or higher is installed on the system
 
-Clone the AIMA Python Master Repository
+Clone the AIMA Python Master Repository: https://github.com/aimacode/aima-python
 
 download misscannibals.py or clone this repository
 
